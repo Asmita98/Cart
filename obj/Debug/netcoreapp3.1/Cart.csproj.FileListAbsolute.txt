@@ -1,0 +1,64 @@
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\log4net.config
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\log4net.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+A:\CartModule\Cart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cs
+A:\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
