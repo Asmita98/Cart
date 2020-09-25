@@ -8,12 +8,15 @@ namespace Cart.Repository
 {
     public class CartItemRepo : ICartItemRepo
     {
+        private const int V = 50;
         public static List<CartItem> cartlist = new List<CartItem>
         {
          new CartItem{Id=1,UserName ="Test1" , ProductName ="Mobile", Price = 10999, Description ="Lenovo", 
              VendorName ="aaaaaa" , DeliveryDate =DateTime.Parse("12-10-2020"), DeliveryCharge=80 },
-         new CartItem{Id=2,UserName ="Test2" , ProductName ="Heater", Price = 1999, Description ="bajaj",
-             VendorName ="aaaaaa" , DeliveryDate =DateTime.Parse("13-10-2020"), DeliveryCharge=50 }
+         //new CartItem{Id=2,UserName ="Test2" , ProductName ="Heater", Price = 1999, Description ="bajaj",
+            // VendorName ="aaaaaa" , DeliveryDate =DateTime.Parse("13-10-2020"), DeliveryCharge=60}
+         //new CartItem{Id=3,UserName ="Test3" , ProductName ="Heater", Price = 1999, Description ="bajaj",
+             //VendorName ="aaaaaa" , DeliveryDate =DateTime.Parse("13-10-2020"), DeliveryCharge=60}
 
         };
 
